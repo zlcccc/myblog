@@ -1,0 +1,25 @@
+.header{
+    background: url("../img/header-bg.png") no-repeat;
+    width: 100%;
+    background-size: 100% auto;
+    min-height: 400px;
+    color: white;
+    text-align: center;
+
+}
+.header .container .col-sm-12 .navbar-brand{
+    font-size: 20px
+}
+.nav>li>a{
+    color: white;
+}
+.nav>li>a:hover{
+    background-color: ""
+}
+
+
+.header .container .head-title{
+    margin-top:100px;
+    height: 20%;
+    font-size: 35px;
+}
